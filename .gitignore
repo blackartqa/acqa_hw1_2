@@ -1,8 +1,8 @@
 # каталог temp
 /tmp
 # backup файлы
-.*_backup
+*_backup
 # old файлы
-.*_old
+*_old
 Thumbs.db
 .DS_Store
